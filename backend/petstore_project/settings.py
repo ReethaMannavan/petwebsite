@@ -136,6 +136,7 @@ MEDIA_ROOT = BASE_DIR / "media"
 CORS_ALLOWED_ORIGINS = [
 
     "http://localhost:5173",
+    "https://effervescent-tarsier-4268b6.netlify.app",
    
 ]
 
@@ -199,6 +200,7 @@ EMAIL_HOST_PASSWORD = 'fris hfvj tbok ixrl'  # Gmail App Password
 
 # Default "from" email
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
+
 
 
 
